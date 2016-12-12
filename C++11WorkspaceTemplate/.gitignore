@@ -1,2 +1,7 @@
 /Debug-Windows/
+<<<<<<< HEAD
 /Release-Windows/
+=======
+/Debug-Linux/
+/Release-Linux/
+>>>>>>> branch 'master' of https://github.com/leonard1337/TestRepository.git
